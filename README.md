@@ -6,9 +6,9 @@ Learning and Exploring!
 - 📫 How to reach me: <a href="mailto:kalani.1@iitj.ac.in">kalani.1@iitj.ac.in</a>
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **DSA, Machine Learning**
-- 📄 Know about my experiences 
+- 📄 Know about my experiences [<B>here</B>](https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing) 
 - 🎵 loves to sing
-- 
+
 ## Connect with me on 👇
 
 <a href="https://instagram.com/harsheyyyy_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsheyyyy_11" height="30" width="40" /></a>
