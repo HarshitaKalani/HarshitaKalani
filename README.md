@@ -1,16 +1,20 @@
-## Hello world! I am Harshita Kalani :blush:
+## Hello world! I am Harshita Kalani 🌻
 I am a Pre-final year student pusuing B.Tech in the field of Computer Science at IIT Jodhpur. 
 Learning and Exploring!
 ## :star: About Me
-- 🔭 I’m currently working for an Pheme's (newsletter club of IIT Jodhpur) website.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on open source projects.
+- 🌱 Software Development Intern @Warner Bros. Discovery in Summer'2023.
 - 📫 How to reach me: <a href="mailto:kalani.1@iitj.ac.in">kalani.1@iitj.ac.in</a>
-
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about **DSA, Machine Learning**
+- 📄 Know about my experiences 
+- 🎵 loves to sing
+- 
 ## Connect with me on 👇
-<a href="https://www.linkedin.com/in/harshita-kalani-604866225/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" />
-</a>
+
+<a href="https://instagram.com/harsheyyyy_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsheyyyy_11" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshita-kalani-604866225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-kalani-604866225/" height="30" width="40"></a>
+
+
 <a href="https://codeforces.com/profile/Harshey_1107" target="_blank">
 <img src="https://img.shields.io/badge/CodeForces--darkgreen" ;></img></a>
 </a> 
@@ -21,8 +25,8 @@ Learning and Exploring!
 <!-- <a href="https://www.youtube.com/channel/UCqY8LGQHnSCbtgiNg4I0sDA" target="_blank">
 <img src="https://img.shields.io/badge/YouTube--blue" />
 </a> -->
-
 <br/> 
+
 
 ## 🚀 Languages and Tools
 <p align="left">
@@ -43,10 +47,13 @@ Learning and Exploring!
 </p>
 
 ## 📊 Github Stats
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitaKalani&show_icons=true&theme=github_dark&hide_border=True)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaKalani&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
-[![Harshita's github activity graph](https://activity-graph.herokuapp.com/graph?username=HarshitaKalani&custom_title=Harshita's%20contribution%20graph&hide_border=true&theme=react-dark)]()
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitaKalani&show_icons=true&locale=en&layout=compact" alt="HarshitaKalani" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulshingwani&show_icons=true&locale=en" alt="mukulshingwani" /></p>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKalani&theme=tokyonight" alt="HarshitaKalani" />
+
+
+
 ## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=HarshitaKalani&color=blue)
 
