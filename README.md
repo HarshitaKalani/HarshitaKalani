@@ -49,7 +49,7 @@ Learning and Exploring!
 ## 📊 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitaKalani&show_icons=true&locale=en&layout=compact" alt="HarshitaKalani" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulshingwani&show_icons=true&locale=en" alt="mukulshingwani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitaKalani&show_icons=true&locale=en" alt="HarshitaKalani" /></p>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKalani&theme=tokyonight" alt="HarshitaKalani" />
 
 
