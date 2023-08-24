@@ -2,10 +2,10 @@
 I am a Pre-final year student pusuing B.Tech in the field of Computer Science at IIT Jodhpur. 
 Learning and Exploring!
 ## :star: About Me
-- 🌱 Software Development Intern @Warner Bros. Discovery in Summer'2023.
+- 🌱 Software Development Intern @Warner Bros. Discovery summer'2023.
 - 📫 How to reach me: <a href="mailto:kalani.1@iitj.ac.in">kalani.1@iitj.ac.in</a>
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about **DSA, Machine Learning**
+- 💬 Ask me about **DSA, Machine Learning, Web Dev, App Dev, Kotlin Multiplatform, etc.**
 - 📄 Know about my experiences [<B>here</B>](https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing) 
 - 🎵 loves to sing
 
