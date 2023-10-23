@@ -1,5 +1,5 @@
 ## Hello world! I am Harshita Kalani 🌻
-I am a Final year UG student pusuing B.Tech in the field of Computer Science at IIT Jodhpur. 
+I am a final year UG student pusuing B.Tech in the field of Computer Science at IIT Jodhpur. 
 Learning and Exploring!
 ## :star: About Me
 - 🌱 Software Development Intern @Warner Bros. Discovery summer'2023.
