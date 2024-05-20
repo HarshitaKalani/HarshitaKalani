@@ -3,10 +3,13 @@ I'm a recent Computer Science graduate from IIT Jodhpur. Excited to join Warner 
 Learning and Exploring!
 ## :star: About Me
 - 🌱 Software Developer @Warner Bros. Discovery summer'2023.
-- 📫 Write to me at: <a href="mailto:harshitakalani02@gmail.com">harshitakalani02@gmail.com</a> | <a href="mailto:kalani.1@iitj.ac.in">kalani.1@iitj.ac.in</a>
-- 👯 I’m looking to collaborate on open source projects.
+- ✨ GSoC contributor @Fortran-lang
+- ❇️ Compiler Developer @LFortran
 - 💬 Ask me about **DSA, Machine Learning, Web Dev, App Dev, Compilers, Kotlin Multiplatform, etc.**
-- 📄 Know about me: [<B>My blog website</B>]([https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing](https://harshitakalani.github.io/)) 
+- 📄 Know more about me: [<B>Portfolio</B>](https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing](https://harshitakalani.github.io/))
+- 💡 Explore my [<B>linkedIn</B>](https://www.linkedin.com/in/harshita-kalani-604866225/)
+- 🖼️ Watch me on [<B>youtube</B>](https://www.youtube.com/channel/UCc_aYRO_FzdB3OD7wkL1MBQ)
+- 📫 Write to me at: <a href="mailto:harshitakalani02@gmail.com">harshitakalani02@gmail.com</a> | <a href="mailto:kalani.1@iitj.ac.in">kalani.1@iitj.ac.in</a>
 - 🎵 Loves to sing
 
 ## Connect with me on 👇
