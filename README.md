@@ -1,17 +1,15 @@
-## Hello world! I am Harshita Kalani 🌻
-I am a final year UG student pusuing B.Tech in the field of Computer Science at IIT Jodhpur. 
+## Hello everyone! I am Harshita Kalani :)
+I'm a recent Computer Science graduate from IIT Jodhpur. Excited to join Warner Bros Discovery as a Software Development Engineer (SDE), I'm also contributing to LFortran as a compiler developer and working on my GSoC project with Fortran-lang. Besides coding, I love singing, listening to music, and I'm learning to play the guitar. Feel free to explore my profile and reach out if you'd like to connect or collaborate.
 Learning and Exploring!
 ## :star: About Me
-- 🌱 Software Development Intern @Warner Bros. Discovery summer'2023.
-- 📫 How to reach me: <a href="mailto:kalani.1@iitj.ac.in">kalani.1@iitj.ac.in</a>
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about **DSA, Machine Learning, Web Dev, App Dev, Kotlin Multiplatform, etc.**
-- 📄 Know about my experiences [<B>here</B>](https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing) 
-- 🎵 loves to sing
+- 🌱 Software Developer @Warner Bros. Discovery summer'2023.
+- 📫 Write to me at: <a href="mailto:harshitakalani02@gmail.com">harshitakalani02@gmail.com</a> | <a href="mailto:kalani.1@iitj.ac.in">kalani.1@iitj.ac.in</a>
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about **DSA, Machine Learning, Web Dev, App Dev, Compilers, Kotlin Multiplatform, etc.**
+- 📄 Know about me: [<B>My blog website</B>]([https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing](https://harshitakalani.github.io/)) 
+- 🎵 Loves to sing
 
 ## Connect with me on 👇
-
-<a href="https://instagram.com/harsheyyyy_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsheyyyy_11" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harshita-kalani-604866225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-kalani-604866225/" height="30" width="40"></a>
 
 
