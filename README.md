@@ -49,9 +49,8 @@ Learning and Exploring!
 
 ## 📊 Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitaKalani&show_icons=true&locale=en&layout=compact" alt="HarshitaKalani" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitaKalani&show_icons=true&locale=en" alt="HarshitaKalani" /></p>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKalani&theme=tokyonight" alt="HarshitaKalani" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats-alpha-seven-33.vercel.app/api?username=HarshitaKalani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="HarshitaKalani" /></p>
 
 
 
