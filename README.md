@@ -48,10 +48,9 @@ Learning and Exploring!
 </p>
 
 ## 📊 Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitaKalani&show_icons=true&locale=en&layout=compact" alt="HarshitaKalani" />
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKalani&theme=tokyonight" alt="HarshitaKalani" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats-alpha-seven-33.vercel.app/api?username=HarshitaKalani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="HarshitaKalani" /></p>
-
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitakalani&show_icons=true&theme=github_dark&hide_border=True)\
+[![Harshita's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitakalani&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitakalani&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
 
 
 ## ❤ Profile Views and Followers
