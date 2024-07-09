@@ -52,6 +52,8 @@ Learning and Exploring!
 [![Harshita's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitakalani&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
 ![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitakalani&show_icons=true&theme=github_dark&hide_border=True)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitakalani&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
+## Github 3D Contribution
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=HarshitaKalani&color=blue)
