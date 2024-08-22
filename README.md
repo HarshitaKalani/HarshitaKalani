@@ -2,7 +2,7 @@
 I'm a recent Computer Science graduate from IIT Jodhpur. Excited to join Warner Bros Discovery as a Software Development Engineer (SDE), I'm also contributing to LFortran as a compiler developer and working on my GSoC project with Fortran-lang. Besides coding, I love singing, listening to music, and I'm learning to play the guitar. Feel free to explore my profile and reach out if you'd like to connect or collaborate.
 Learning and Exploring!
 ## :star: About Me
-- 🌱 Software Developer @Warner Bros. Discovery summer'2023.
+- 🌱 Software Developer @Warner Bros. Discovery.
 - ✨ GSoC contributor @Fortran-lang
 - ❇️ Compiler Developer @LFortran
 - 💬 Ask me about **DSA, Machine Learning, Web Dev, App Dev, Compilers, Kotlin Multiplatform, etc.**
