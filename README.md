@@ -1,9 +1,10 @@
 ## Hello everyone! I am Harshita Kalani :)
-I'm a recent Computer Science graduate from IIT Jodhpur. Excited to join Warner Bros Discovery as a Software Development Engineer (SDE), I'm also contributing to LFortran as a compiler developer and working on my GSoC project with Fortran-lang. Besides coding, I love singing, listening to music, and I'm learning to play the guitar. Feel free to explore my profile and reach out if you'd like to connect or collaborate.
+I'm a recent Computer Science graduate from IIT Jodhpur (Gold medalist). I've joined Warner Bros Discovery as a Software Development Engineer (SDE) and I'm also contributing to LFortran as a compiler developer. I've contributed to Fortran-lang as a GSoC'24 contributor. Besides coding, I love singing, listening to music, and I'm learning to play the guitar. Feel free to explore my profile and reach out if you'd like to connect or collaborate.
 Learning and Exploring!
+
 ## :star: About Me
 - 🌱 Software Developer @Warner Bros. Discovery.
-- ✨ GSoC contributor @Fortran-lang
+- ✨ GSoC'24 contributor @Fortran-lang
 - ❇️ Compiler Developer @LFortran
 - 💬 Ask me about **DSA, Machine Learning, Web Dev, App Dev, Compilers, Kotlin Multiplatform, etc.**
 - 📄 Know more about me: [<B>Portfolio</B>](https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing](https://harshitakalani.github.io/))
@@ -14,7 +15,6 @@ Learning and Exploring!
 
 ## Connect with me on 👇
 <a href="https://www.linkedin.com/in/harshita-kalani-604866225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-kalani-604866225/" height="30" width="40"></a>
-
 
 <a href="https://codeforces.com/profile/Harshey_1107" target="_blank">
 <img src="https://img.shields.io/badge/CodeForces--darkgreen" ;></img></a>
@@ -52,8 +52,6 @@ Learning and Exploring!
 [![Harshita's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitakalani&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
 ![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitakalani&show_icons=true&theme=github_dark&hide_border=True)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitakalani&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
-## Github 3D Contribution
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=HarshitaKalani&color=blue)
