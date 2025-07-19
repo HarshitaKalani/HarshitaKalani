@@ -1,4 +1,4 @@
-## Hello everyone! I am Harshita Kalani :)
+## Hello everyone! I am Harshita Kalani 🌻
 I'm a recent Computer Science graduate from IIT Jodhpur (Recipient of the Institute Gold Medal for Academic Excellence). I've joined Warner Bros Discovery as a Software Development Engineer (SDE) and I'm also contributing to LFortran as a compiler developer. I've contributed to Fortran-lang as a GSoC'24 contributor and now I'm serving as a GSoC mentor in the same org. Besides coding, I love singing, listening to music, and I'm learning to play the guitar. Feel free to explore my profile and reach out if you'd like to connect or collaborate.
 Learning and Exploring!
 
