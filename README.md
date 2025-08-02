@@ -6,7 +6,7 @@ Learning and Exploring!
 - 🌱 Software Developer @Warner Bros. Discovery.
 - ✨ GSoC'24 contributor @Fortran-lang
 - ❇️ Compiler Developer @LFortran
-- 💬 Ask me about **DSA, Machine Learning, Web Dev, App Dev, Compilers, Kotlin Multiplatform, etc.**
+- 💬 Ask me about **DSA, Machine Learning, AI, Full stack Dev, Compilers, etc.**
 - 📄 Know more about me: [<B>Portfolio</B>](https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing](https://harshitakalani.github.io/))
 - 💡 Explore my [<B>linkedIn</B>](https://www.linkedin.com/in/harshita-kalani-604866225/)
 - 🖼️ Watch me on [<B>youtube</B>](https://www.youtube.com/channel/UCc_aYRO_FzdB3OD7wkL1MBQ)
