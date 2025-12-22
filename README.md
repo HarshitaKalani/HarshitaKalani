@@ -1,10 +1,13 @@
 ## Hello everyone! I am Harshita Kalani :)
-I'm a recent Computer Science graduate from IIT Jodhpur (Recipient of the Institute Gold Medal for Academic Excellence). I've joined Warner Bros Discovery as a Software Development Engineer (SDE) and I'm also contributing to LFortran as a compiler developer. I've contributed to Fortran-lang as a GSoC'24 contributor and now I'm serving as a GSoC mentor in the same org. Besides coding, I love singing, listening to music, and I'm learning to play the guitar. Feel free to explore my profile and reach out if you'd like to connect or collaborate.
-Learning and Exploring!
+I'm a software Engineer at Warner Bros. Discovery, open-source enthusiast, and one who enjoys building things while listening to music.
+I contribute to LFortran, did Google Summer of Code 2024 with Fortran-lang, mentored GSoC 2025, and flew to Germany for the GSoC Mentor Summit. Open source has been a huge part of my journey.
+I’m a Gold Medalist from IIT Jodhpur (B.Tech, Computer Science & Engineering). Outside of code, you’ll usually find me singing, experimenting in the kitchen, discovering new music, reading books, writing blogs (some live at harshitakalani.github.io), or recently getting into chess.
+If you’re into open source, tech conversations, building cool things, or just having fun in life, I’d love to connect ^_^
 
 ## :star: About Me
-- 🌱 Software Developer @Warner Bros. Discovery.
+- 🌱 Software Engineer @Warner Bros. Discovery.
 - ✨ GSoC'24 contributor @Fortran-lang
+- ⭐ GSoC'25 mentor @Fortran-lang
 - ❇️ Compiler Developer @LFortran
 - 💬 Ask me about **DSA, Machine Learning, AI, Full stack Dev, Compilers, etc.**
 - 📄 Know more about me: [<B>Portfolio</B>](https://drive.google.com/file/d/1iYnGTmkithbwVdmFTb6FQG5zgfO8_KWg/view?usp=sharing](https://harshitakalani.github.io/))
