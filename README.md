@@ -1,7 +1,7 @@
 ## Hello everyone! I am Harshita Kalani :)
-I'm a software Engineer at Warner Bros. Discovery, open-source enthusiast, and one who enjoys building things while listening to music.
-I contribute to LFortran, did Google Summer of Code 2024 with Fortran-lang, mentored GSoC 2025, and flew to Germany for the GSoC Mentor Summit. Open source has been a huge part of my journey.
-I’m a Gold Medalist from IIT Jodhpur (B.Tech, Computer Science & Engineering). Outside of code, you’ll usually find me singing, experimenting in the kitchen, discovering new music, reading books, writing blogs (some live at harshitakalani.github.io), or recently getting into chess.
+I'm a software Engineer at Warner Bros. Discovery, open-source enthusiast, and one who enjoys building things while listening to music.<br>
+I contribute to LFortran, did Google Summer of Code 2024 with Fortran-lang, mentored GSoC 2025, and flew to Germany for the GSoC Mentor Summit. Open source has been a huge part of my journey.<br>
+I’m a Gold Medalist from IIT Jodhpur (B.Tech, Computer Science & Engineering). Outside of code, you’ll usually find me singing, experimenting in the kitchen, discovering new music, reading books, writing blogs (some live at harshitakalani.github.io), or recently getting into chess.<br>
 If you’re into open source, tech conversations, building cool things, or just having fun in life, I’d love to connect ^_^
 
 ## :star: About Me
